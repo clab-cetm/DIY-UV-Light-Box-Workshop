@@ -1,4 +1,4 @@
-Language: [中文](#自製-microbit-額溫槍工作坊)、[English](#this-diy-microbit-infrared-thermometer-workshop)
+Language: [中文](#紫外燈消毒口罩盒工作坊)、[English](#this-diy-uv-light-box-workshop)
 
 # 紫外燈消毒口罩盒工作坊
 
@@ -73,9 +73,7 @@ C-LAB 秉持開放文化自由分享精神，工作坊的文字、影像、設�
 * 直播執行：陳韋均、詹佳儒 
 * 授權顧問：莊庭瑞 
 * 平面設計：崔壯維
-
-
-* 詳細課程內容請洽 執行製作組 謝澤旻 chemin@clab.org.tw  
+* 詳細課程內容請洽 執行製作組 謝澤旻 chemin@clab.org.tw 
 * 公關媒體聯繫請洽 行銷推廣組 黃怡翔 yiseanh@clab.org.tw
 
 
@@ -143,8 +141,6 @@ HSIEH Yu-Cheng, specializes in mixed media and spatial installations. His works 
 * Photographer: Vincent SANG, HUANG Po-Chao
 * Live-Stream: Oris CHEN, Ed 
 * Licensing Consultant: CHUANG Tyng-Ruey
-
-
 * For further information please contact:
 	* HSIEH Che-Min, chemin@clab.org.tw 
 	* Sean HUANG, yiseanh@clab.org.tw 
