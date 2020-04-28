@@ -1,4 +1,4 @@
-Language: [中文](#紫外燈消毒口罩盒工作坊)、[English](#this-diy-uv-light-box-workshop)
+Language: [中文](#紫外燈消毒口罩盒工作坊)、[English](#diy-uv-light-box-workshop)
 
 # 紫外燈消毒口罩盒工作坊
 
