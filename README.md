@@ -80,7 +80,7 @@ C-LAB 秉持開放文化自由分享精神，工作坊的文字、影像、設�
 空總臺灣當代文化實驗場 C-LAB www.clab.org.tw
 
 
-# This DIY UV Light Box Workshop
+# DIY UV Light Box Workshop
 
 ## *DIY Virus Fighter Workshop Series: Hygiene is in. Germs are out.*
 
