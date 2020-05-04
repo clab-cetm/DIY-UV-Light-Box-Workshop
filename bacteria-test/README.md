@@ -33,7 +33,7 @@
 
 每一種微生物都有其特定 UVC 殺菌劑量標準，其劑量是照射強度與照射時間的乘積
 
-	UV dose μWs/cm2 = UV intensity μW/cm2 × exposure time (seconds)
+	UV dose μWs/cm² = UV intensity μW/cm² × exposure time (seconds)
 
 所以高強度配合短時間與低強度和長時間的照射效果是相同的。參考資料：[WiKi: Ultraviolet germicidal irradiation](https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation) 
 
