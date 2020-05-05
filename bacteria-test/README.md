@@ -38,14 +38,14 @@
 
 所以高強度配合短時間與低強度和長時間的照射效果是相同的。參考資料：[WiKi: Ultraviolet germicidal irradiation](https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation) 
 
+註：COVID-19 是單鏈 RNA 病毒，一些研究指出 2-5mJ/cm² 的 UVC 照射量 (UVGI) 可以使單鏈 RNA 病毒失效。\*1
+
+\**1) Tseng, C. C., & Li, C. S. (2007). Inactivation of viruses on surfaces by ultraviolet germicidal irradiation. Journal of Occupational and Environmental Hygiene, 4(6), 400-405.*
+
 由於我們（A.k.a. 普通老百姓）沒有能力和設備取得 COVID-19 病毒做實驗，也沒有[專業的 UVC 照度計](http://www.extech.com/products/SDL470)可以測量 UVC 強度。但如果你有仔細聽工作坊的分享（直播來源：[點我](https://www.facebook.com/TCCLAB.ORG/videos/3556683661026279/)）。一般來說以 UVC 殺死細菌所需要的時間，會比殺死病毒所需的時間還久。所以這個實驗假設「能殺死或抑制細菌的 UVC 照射量，也幾乎能抑制或殺死病毒。」
 
 以下的實驗使用三個菌盤，分別採集三種不同的來源，然後將菌盤分為左右兩邊，一邊照射 UVC 光，另一邊不照射，然後觀察細菌繁殖的狀況。
 
->註：COVID-19 是單鏈 RNA 病毒，一些研究指出 2-5mJ/cm² 的 UVC 照射量 (UVGI) 可以使單鏈 RNA 病毒失效。
-
->Reference: Tseng, C. C., & Li, C. S. (2007). Inactivation of viruses on surfaces by ultraviolet germicidal irradiation.
->　　　　　Journal of Occupational and Environmental Hygiene, 4(6), 400-405.
 
 ## 採菌
 
