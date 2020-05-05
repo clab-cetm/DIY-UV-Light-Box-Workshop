@@ -42,6 +42,10 @@
 
 以下的實驗使用三個菌盤，分別採集三種不同的來源，然後將菌盤分為左右兩邊，一邊照射 UVC 光，另一邊不照射，然後觀察細菌繁殖的狀況。
 
+>註：COVID-19 是單鏈 RNA 病毒，一些研究指出 2-5mJ/cm² 的 UVC 照射量 (UVGI) 可以使單鏈 RNA 病毒失效。
+
+>Reference: Tseng, C. C., & Li, C. S. (2007). Inactivation of viruses on surfaces by ultraviolet germicidal irradiation.
+>　　　　　Journal of Occupational and Environmental Hygiene, 4(6), 400-405.
 
 ## 採菌
 
