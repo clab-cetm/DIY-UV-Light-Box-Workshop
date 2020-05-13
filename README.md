@@ -25,7 +25,9 @@ C-LAB 秉持開放文化自由分享精神，工作坊的文字、影像、設�
 　　GitHub 資源平台: https://github.com/clab-cetm/DIY-UV-Light-Box-Workshop
 
 * bacteria-test -- 利用工作坊完成的殺菌盒做微生物測試
+* case -- 口罩架紙模板
 * docs -- 工作坊投影片、組裝說明書
+* tips-tricks -- 一些改裝小技巧
 * video -- 活動相關影片
 * visual-design -- 視覺設計
 
